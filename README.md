@@ -2,5 +2,5 @@
 this repo is for **fun** 
 to start with this code, please run
 ```sh
-git code http//web.com
+git clone https://github.com/Arianmh17/web1.git
 ```

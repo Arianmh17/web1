@@ -1,2 +1,6 @@
-# web1
-web 1 class repo
+# first website
+this repo is for **fun** 
+to start with this code, please run
+```sh
+git code http//web.com
+```
